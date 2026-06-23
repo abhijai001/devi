@@ -3,6 +3,11 @@
 A real-time emergency response web application. One hold-to-activate SOS button broadcasts your live GPS location to nearby users within a 1 km radius, notifies the nearest police station, and opens a shared chat room where responders and an AI assistant coordinate help.
 
 ---
+## Developer
+
+**Abhijeet Jaiswal**  
+Full Stack Developer  
+[GitHub](https://github.com/abhijai001)
 
 ## Features
 

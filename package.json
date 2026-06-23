@@ -2,6 +2,12 @@
   "name": "devi-emergency-app",
   "version": "1.0.0",
   "private": true,
+  "author": "Abhijeet Jaiswal <your@email.com>",
+  "description": "Real-time emergency response app with live GPS and AI assistance",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/abhijai001/devi.git"
+},
   "scripts": {
     "dev": "vite",
     "build": "vite build",
